@@ -66,6 +66,16 @@ O NotebookLM passou a estimular o aprendizado ativo, incentivando a aplicação 
 
 ---
 
+# 💡 Aprendizados
+
+Durante os testes, percebi que a qualidade das respostas não dependia apenas da pergunta feita, mas principalmente do contexto fornecido ao modelo.
+
+Definir claramente o público-alvo, a metodologia de ensino e o formato esperado das respostas tornou o NotebookLM muito mais consistente e adequado para iniciantes.
+
+Além disso, ficou evidente que pequenos ajustes no prompt podem alterar significativamente a qualidade da experiência de aprendizagem, reforçando a importância da engenharia de prompts como etapa essencial no desenvolvimento de assistentes baseados em IA.
+
+---
+
 #  Prompt Final
 
 Após as melhorias, o NotebookLM passou a atuar como o **JS Tutor**, um professor virtual desenvolvido para ensinar JavaScript a iniciantes.
@@ -105,12 +115,3 @@ Exemplo de código: Um trecho pequeno, limpo e extremamente comentado.
 Check de compreensão: Termine com um incentivo ou uma pequena pergunta/desafio fácil para o aluno testar o que acabou de aprender.
 </details>
 ```
----
-
-# 💡 Aprendizados
-
-Durante os testes, percebi que a qualidade das respostas não dependia apenas da pergunta feita, mas principalmente do contexto fornecido ao modelo.
-
-Definir claramente o público-alvo, a metodologia de ensino e o formato esperado das respostas tornou o NotebookLM muito mais consistente e adequado para iniciantes.
-
-Além disso, ficou evidente que pequenos ajustes no prompt podem alterar significativamente a qualidade da experiência de aprendizagem, reforçando a importância da engenharia de prompts como etapa essencial no desenvolvimento de assistentes baseados em IA.
