@@ -6,7 +6,7 @@ O objetivo foi explorar o uso da Inteligência Artificial como ferramenta de apr
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 - Aprender os fundamentos do JavaScript
 - Utilizar o NotebookLM como tutor personalizado
@@ -15,7 +15,7 @@ O objetivo foi explorar o uso da Inteligência Artificial como ferramenta de apr
 
 ---
 
-## 📚 Tema escolhido
+##  Tema escolhido
 
 JavaScript para iniciantes.
 
@@ -23,7 +23,7 @@ O NotebookLM foi configurado para atuar como um professor virtual chamado **JS T
 
 ---
 
-## 🧠 Como o JS Tutor funciona
+##  Como o JS Tutor funciona
 
 O tutor responde utilizando sempre a seguinte estrutura:
 
@@ -46,10 +46,4 @@ Além disso, sempre reforça conceitos importantes como:
 - Objetos
 - Arrays
 
----
 
-## 📖 Algumas das fontes utilizadas
-
-- JavaScript.info
-- W3Schools JavaScript
-- JavaScript The Definitive Guide - David Flanagan
