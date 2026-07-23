@@ -66,7 +66,7 @@ O NotebookLM passou a estimular o aprendizado ativo, incentivando a aplicação 
 
 ---
 
-# 💡 Aprendizados
+#  Aprendizados
 
 Durante os testes, percebi que a qualidade das respostas não dependia apenas da pergunta feita, mas principalmente do contexto fornecido ao modelo.
 
@@ -89,7 +89,7 @@ As principais características definidas foram:
 - Exemplos de código comentados;
 - Pequenos desafios ao final de cada explicação.
 
-#  Prompt de Configuração
+##  Prompt de Configuração
 
 <details>
 <summary>Clique para visualizar o prompt completo</summary>
