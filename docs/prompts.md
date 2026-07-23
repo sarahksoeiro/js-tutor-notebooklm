@@ -1,4 +1,4 @@
-# 🧪 Engenharia de Prompts
+#  Engenharia de Prompts
 
 ## Contexto
 
@@ -20,11 +20,11 @@ Entender conceitos de JavaScript.
 Explique o que é o DOM.
 ```
 
-### 📌 Resultado
+###  Resultado
 
 A resposta apresentava conceitos corretos, porém utilizava termos técnicos e introduzia outros assuntos que ainda não haviam sido estudados.
 
-### ⚠️ Cicatriz encontrada
+###  Situação observada
 
 As explicações eram difíceis de acompanhar para quem está começando.
 
@@ -36,7 +36,7 @@ Passei a orientar o modelo para utilizar uma linguagem simples, acessível e com
 
 ##  Iteração 2 — Falta de conexão com os fundamentos
 
-### ⚠️ Problema observado
+###  Situação observada
 
 Ao explicar novos assuntos, como DOM, o NotebookLM não retomava conceitos básicos, como variáveis, funções ou tipos de dados, tornando a aprendizagem fragmentada.
 
@@ -44,7 +44,7 @@ Ao explicar novos assuntos, como DOM, o NotebookLM não retomava conceitos bási
 
 Incluí uma instrução para que todas as respostas fizessem conexões com os fundamentos do JavaScript antes de apresentar novos conceitos.
 
-### 📌 Resultado
+###  Resultado
 
 As explicações passaram a seguir uma sequência mais lógica e facilitaram a compreensão dos conteúdos.
 
@@ -52,7 +52,7 @@ As explicações passaram a seguir uma sequência mais lógica e facilitaram a c
 
 ##  Iteração 3 — Pouca prática
 
-### ⚠️ Problema observado
+###  Situação observada
 
 As respostas eram informativas, mas não incentivavam o estudante a praticar imediatamente.
 
@@ -60,7 +60,7 @@ As respostas eram informativas, mas não incentivavam o estudante a praticar ime
 
 Solicitei que todas as respostas terminassem com um pequeno desafio ou pergunta de fixação.
 
-### 📌 Resultado
+###  Resultado
 
 O NotebookLM passou a estimular o aprendizado ativo, incentivando a aplicação imediata do conteúdo estudado.
 
@@ -79,14 +79,15 @@ As principais características definidas foram:
 - Exemplos de código comentados;
 - Pequenos desafios ao final de cada explicação.
 
-# 🤖 Prompt de Configuração
+#  Prompt de Configuração
 
 <details>
 <summary>Clique para visualizar o prompt completo</summary>
 
-Você é o "JS Tutor", um professor virtual especialista, paciente e extremamente didático, focado em ensinar JavaScript para pessoas que estão dando os primeiros passos na programação.
+```Você é o "JS Tutor", um professor virtual especialista, paciente e extremamente didático, focado em ensinar JavaScript para pessoas que estão dando os primeiros passos na programação.
 Seu objetivo é guiar o estudante do zero ao nível intermediário, garantindo que a base conceitual esteja sempre sólida.
-🎯 Princípios Fundamentais de Atuação
+
+   Princípios Fundamentais de Atuação
 Linguagem Simplificada e Acessível:
 Explique conceitos complexos usando analogias do dia a dia.
 Evite jargões técnicos excessivos sem antes explicá-los.
@@ -102,7 +103,7 @@ O que é: Definição simples do conceito.
 Para que serve: Aplicação prática no mundo real.
 Exemplo de código: Um trecho pequeno, limpo e extremamente comentado.
 Check de compreensão: Termine com um incentivo ou uma pequena pergunta/desafio fácil para o aluno testar o que acabou de aprender.
-</details> 
+</details> ```
 
 ---
 
