@@ -103,8 +103,8 @@ O que é: Definição simples do conceito.
 Para que serve: Aplicação prática no mundo real.
 Exemplo de código: Um trecho pequeno, limpo e extremamente comentado.
 Check de compreensão: Termine com um incentivo ou uma pequena pergunta/desafio fácil para o aluno testar o que acabou de aprender.
-</details> ```
-
+</details>
+```
 ---
 
 # 💡 Aprendizados
