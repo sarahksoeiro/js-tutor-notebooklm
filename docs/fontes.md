@@ -1,5 +1,5 @@
-## 📖 Algumas das fontes utilizadas
+##  Algumas das fontes utilizadas
 
-- JavaScript.info
+```- JavaScript.info
 - W3Schools JavaScript
 - JavaScript The Definitive Guide - David Flanagan
