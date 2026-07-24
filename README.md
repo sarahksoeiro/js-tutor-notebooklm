@@ -1,3 +1,4 @@
+(`assets/banner.png`).
 # JS Tutor - JavaScript para Iniciantes
 
 > **Projeto desenvolvido para o desafio da DIO**
@@ -6,7 +7,8 @@
 > **Ferramenta:** NotebookLM  
 > **Objetivo:** Construção de um tutor virtual utilizando Engenharia de Prompts.
 
-> **Banner:** Substitua esta linha pela imagem do banner (`assets/banner.png`).
+> **Preview:**
+(`assets/preview.png`).
 
 ---
 
