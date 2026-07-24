@@ -35,7 +35,7 @@ O objetivo foi explorar o uso da Inteligência Artificial como ferramenta de apr
 
 
 > **Preview:**
-![Preview JS Tutor](./assets/preview.png)
+<img src="./assets/preview.png" alt="Preview do site" width="600" />
 
 
 ---
