@@ -10,6 +10,22 @@
 
 ---
 
+## Índice
+
+- [Apresentação](#apresentação)
+- [Objetivos](#objetivos)
+- [Tema Escolhido](#tema-escolhido)
+- [Curadoria de Fontes](#curadoria-de-fontes)
+- [Engenharia de Prompts](#engenharia-de-prompts)
+- [Prompt de Configuração](#prompt-de-configuração)
+- [Guia de Estudos](#guia-de-estudos)
+- [Glossário](#glossário)
+- [Prompts Reutilizáveis](#prompts-reutilizáveis)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Considerações Finais](#considerações-finais)
+  
+---
+
 ## Apresentação
 
 Projeto desenvolvido durante o desafio da DIO utilizando o NotebookLM para criar um tutor virtual especializado em JavaScript para iniciantes.
@@ -37,11 +53,21 @@ O NotebookLM foi configurado para atuar como um professor virtual chamado **JS T
 
 ## Curadoria de Fontes
 
-As seguintes fontes foram utilizadas para compor a base de conhecimento do NotebookLM:
+Para construir uma base de conhecimento mais completa, o NotebookLM foi alimentado com aproximadamente **40 materiais**, incluindo documentações oficiais, artigos técnicos, materiais acadêmicos e videoaulas.
 
-- https://javascript.info/
-- https://www.w3schools.com/js/
-- *JavaScript: The Definitive Guide* — David Flanagan
+Abaixo estão algumas das principais fontes utilizadas durante o projeto:
+
+- **JavaScript.info** — Guia completo sobre JavaScript moderno.  
+  https://javascript.info/
+
+- **W3Schools – JavaScript** — Material introdutório com exemplos práticos.  
+  https://www.w3schools.com/js/
+
+- **JavaScript: The Definitive Guide** — David Flanagan.
+
+- **Videoaulas sobre JavaScript** (YouTube) utilizadas para complementar a abordagem prática e exemplos de código.
+
+> **Observação:** Além das fontes listadas acima, foram utilizados diversos outros materiais, incluindo artigos especializados, conteúdos acadêmicos e aproximadamente 40 documentos e videoaulas incorporados ao NotebookLM para enriquecer sua base de conhecimento. A seleção de diferentes formatos permitiu explorar as capacidades do NotebookLM na síntese e organização de conteúdos provenientes tanto de textos quanto de vídeos.
 
 ---
 
@@ -140,6 +166,10 @@ Olá, futuro desenvolvedor!
 
 Este material foi preparado para ser o seu mapa na jornada de aprendizado do JavaScript. Diferente de outras linguagens, o JavaScript é responsável por dar vida às páginas da web, permitindo que elas deixem de ser apenas conteúdos estáticos e se tornem experiências interativas.
 
+text```Este guia foi elaborado para servir como um material de apoio aos estudos de JavaScript, reunindo os principais conceitos fundamentais em uma sequência lógica e progressiva.
+
+O objetivo não é substituir a prática, mas fornecer uma base sólida para consultas rápidas, revisões e esclarecimento de dúvidas durante o aprendizado. À medida que você dominar esses conteúdos, estará preparado para explorar temas mais avançados, como Arrays, Objetos, Programação Assíncrona, Consumo de APIs, ES6+, Orientação a Objetos e frameworks modernos.
+```
 ---
 
 # Fluxo de Aprendizagem
@@ -350,15 +380,6 @@ Como utilizar [CONCEITO] para desenvolver um(a) [TIPO DE PROJETO]? Explique pass
 Quais são as diferenças entre [CONCEITO A] e [CONCEITO B]? Apresente exemplos práticos.
 ```
 
----
-
-# Conclusão
-
-Este guia foi elaborado para servir como um material de apoio aos estudos de JavaScript, reunindo os principais conceitos fundamentais em uma sequência lógica e progressiva.
-
-O objetivo não é substituir a prática, mas fornecer uma base sólida para consultas rápidas, revisões e esclarecimento de dúvidas durante o aprendizado. À medida que você dominar esses conteúdos, estará preparado para explorar temas mais avançados, como Arrays, Objetos, Programação Assíncrona, Consumo de APIs, ES6+, Orientação a Objetos e frameworks modernos.
-
-Lembre-se: aprender programação é um processo contínuo. Praticar regularmente, desenvolver pequenos projetos e revisar os conceitos estudados são hábitos essenciais para consolidar o conhecimento e evoluir como desenvolvedor.
 ---
 
 ## Tecnologias Utilizadas
