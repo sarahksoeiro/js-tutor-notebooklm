@@ -9,9 +9,6 @@
 > **Ferramenta:** NotebookLM  
 > **Objetivo:** Construção de um tutor virtual utilizando Engenharia de Prompts.
 
-> **Preview:**
-![Preview JS Tutor](./assets/preview.png)
-
 ---
 
 ## Índice
@@ -35,6 +32,11 @@
 Projeto desenvolvido durante o desafio da DIO utilizando o NotebookLM para criar um tutor virtual especializado em JavaScript para iniciantes.
 
 O objetivo foi explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa, organizando conteúdos, testando estratégias de prompts e construindo um guia de estudos reutilizável.
+
+
+> **Preview:**
+![Preview JS Tutor](./assets/preview.png)
+
 
 ---
 
