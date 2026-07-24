@@ -173,10 +173,11 @@ Este material foi preparado para ser o seu mapa na jornada de aprendizado do Jav
 # Fluxo de Aprendizagem
 
 O estudo foi organizado em uma sequência lógica, na qual cada conceito serve de base para o próximo.
-text Introdução ↓ Variáveis ↓ Tipos de Dados ↓ Estruturas Condicionais ↓ Laços de Repetição ↓ Funções ↓ DOM (Document Object Model)
+text
+Introdução ↓ Variáveis ↓ Tipos de Dados ↓ Estruturas Condicionais ↓ Laços de Repetição ↓ Funções ↓ DOM (Document Object Model)
 ---
 
-# Antes de começar
+## Antes de começar
 
 Para aproveitar melhor este guia, é recomendado possuir conhecimentos básicos sobre:
 
