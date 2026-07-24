@@ -160,8 +160,6 @@ Você é o "JS Tutor", um professor virtual especialista, paciente e extremament
 
 ## Miniguia de Estudos
 
-# Guia de Estudos JavaScript: Do Zero à Interatividade Web
-
 Olá, futuro desenvolvedor!
 
 Este material foi preparado para ser o seu mapa na jornada de aprendizado do JavaScript. Diferente de outras linguagens, o JavaScript é responsável por dar vida às páginas da web, permitindo que elas deixem de ser apenas conteúdos estáticos e se tornem experiências interativas.
@@ -170,7 +168,7 @@ Este material foi preparado para ser o seu mapa na jornada de aprendizado do Jav
 
 ---
 
-# Fluxo de Aprendizagem
+### Fluxo de Aprendizagem
 
 O estudo foi organizado em uma sequência lógica, na qual cada conceito serve de base para o próximo.
 
@@ -190,7 +188,7 @@ DOM (Document Object Model)
 
 ---
 
-## Antes de começar
+#### Antes de começar
 
 Para aproveitar melhor este guia, é recomendado possuir conhecimentos básicos sobre:
 
@@ -200,35 +198,35 @@ Para aproveitar melhor este guia, é recomendado possuir conhecimentos básicos 
 
 ---
 
-# 1. Introdução e Variáveis: As Caixas da Memória
+### 1. Introdução e Variáveis: As Caixas da Memória
 
-## O que é?
+#### O que é?
 
 JavaScript é uma linguagem de programação de alto nível executada principalmente no navegador do usuário.
 
-### Conexão
+##### Conexão
 
 Antes de ensinar o computador a executar ações, precisamos ensiná-lo a armazenar informações. É justamente esse o papel das variáveis.
 
-### Analogia
+##### Analogia
 
 Imagine que você está organizando uma mudança. Cada variável funciona como uma caixa identificada por uma etiqueta. A etiqueta representa o nome da variável e o conteúdo armazenado representa seu valor.
 
-## Como declarar variáveis
+#### Como declarar variáveis
 
-### `const`
+##### `const`
 
 Utilizada para valores que não serão reatribuídos.
 
-### `let`
+##### `let`
 
 Utilizada para valores que podem mudar durante a execução do programa.
 
-### `var`
+##### `var`
 
 Forma antiga de declarar variáveis. Seu uso não é recomendado devido ao comportamento relacionado ao escopo e ao hoisting.
 
-### Exemplo
+##### Exemplo
 javascript const nomeDoGato = "Frajola"; let fomeDoGato = 10; fomeDoGato = 100; // nomeDoGato = "Bolinha"; // Erro: constantes não podem ser reatribuídas.
 > **Atenção**
 >
@@ -236,17 +234,17 @@ javascript const nomeDoGato = "Frajola"; let fomeDoGato = 10; fomeDoGato = 100; 
 
 ---
 
-# 2. Tipos de Dados: O que cabe na caixa?
+### 2. Tipos de Dados: O que cabe na caixa?
 
-## Conexão
+#### Conexão
 
 Agora que sabemos criar variáveis, precisamos entender quais tipos de informações podem ser armazenadas nelas.
 
-### Analogia
+##### Analogia
 
 Assim como uma cozinha possui recipientes apropriados para diferentes alimentos, cada tipo de dado possui uma finalidade específica.
 
-## Principais tipos
+#### Principais tipos
 
 - **String:** textos.
 - **Number:** números inteiros e decimais.
@@ -254,7 +252,7 @@ Assim como uma cozinha possui recipientes apropriados para diferentes alimentos,
 - **null:** ausência intencional de valor.
 - **undefined:** variável criada, mas sem valor atribuído.
 
-### Exemplo
+##### Exemplo
 javascript let preco = 25.50; let produto = "Caneta"; let temEstoque = true; console.log("5" + 2); // "52"
 > **Atenção**
 >
@@ -262,13 +260,13 @@ javascript let preco = 25.50; let produto = "Caneta"; let temEstoque = true; con
 
 ---
 
-# 3. Estruturas Condicionais: O Cérebro do Código
+### 3. Estruturas Condicionais: O Cérebro do Código
 
-## Conexão
+#### Conexão
 
 Depois de armazenar informações, é hora de permitir que o programa tome decisões.
 
-### Analogia
+##### Analogia
 
 Pense em um GPS.
 
@@ -276,13 +274,13 @@ Se houver trânsito, ele escolhe outro caminho.
 
 Caso contrário, mantém a rota original.
 
-## Principais estruturas
+#### Principais estruturas
 
 - `if`
 - `else`
 - `switch`
 
-### Exemplo
+##### Exemplo
 javascript let nota = 7; if (nota >= 7) { console.log("Aprovado!"); } else { console.log("Reprovado."); }
 > **Atenção**
 >
@@ -290,24 +288,24 @@ javascript let nota = 7; if (nota >= 7) { console.log("Aprovado!"); } else { con
 
 ---
 
-# 4. Laços de Repetição: Automatizando Tarefas
+### 4. Laços de Repetição: Automatizando Tarefas
 
-## Conexão
+#### Conexão
 
 Em vez de repetir o mesmo código várias vezes, utilizamos loops para automatizar tarefas repetitivas.
 
-### Analogia
+##### Analogia
 
 Imagine um atleta correndo voltas em uma pista. Ele continua repetindo o percurso até cumprir seu objetivo.
 
-## Principais estruturas
+#### Principais estruturas
 
 - `for`
 - `while`
 - `for...of`
 - `forEach`
 
-### Exemplo
+##### Exemplo
 javascript const frutas = ["Maçã", "Banana", "Uva"]; frutas.forEach(function(fruta) { console.log("Eu gosto de " + fruta); });
 > **Atenção**
 >
@@ -315,17 +313,17 @@ javascript const frutas = ["Maçã", "Banana", "Uva"]; frutas.forEach(function(f
 
 ---
 
-# 5. Funções: Blocos Reutilizáveis
+### 5. Funções: Blocos Reutilizáveis
 
-## Conexão
+#### Conexão
 
 À medida que os programas crescem, repetir código deixa de ser uma boa prática. As funções permitem organizar e reutilizar tarefas.
 
-### Analogia
+##### Analogia
 
 Imagine uma receita de bolo. Você escreve os passos uma única vez e pode utilizá-los sempre que quiser. As funções seguem essa mesma ideia: criar uma sequência de instruções reutilizável.
 
-### Exemplo
+##### Exemplo
 javascript function calcularMedia(n1, n2) { let resultado = (n1 + n2) / 2; return resultado; } let minhaMedia = calcularMedia(8, 10);
 > **Atenção**
 >
@@ -333,23 +331,23 @@ javascript function calcularMedia(n1, n2) { let resultado = (n1 + n2) / 2; retur
 
 ---
 
-# 6. DOM (Document Object Model): O JavaScript Encontra a Página
+### 6. DOM (Document Object Model): O JavaScript Encontra a Página
 
-## Conexão
+#### Conexão
 
 Até aqui, o JavaScript manipulava apenas dados na memória. Com o DOM, ele passa a interagir diretamente com os elementos da página.
 
-### Analogia
+##### Analogia
 
 O HTML representa a estrutura do corpo, o CSS representa sua aparência e o DOM funciona como o sistema nervoso, permitindo que o JavaScript modifique e controle os elementos da página.
 
-## Principais ações
+#### Principais ações
 
 - Selecionar elementos.
 - Alterar textos e estilos.
 - Responder a eventos do usuário.
 
-### Exemplo
+##### Exemplo
 javascript const botao = document.querySelector("#meuBotao"); botao.addEventListener("click", function () { document.body.style.backgroundColor = "blue"; });
 > **Atenção**
 >
