@@ -1,4 +1,5 @@
-assets/banner.png
+img src = "assets/banner.png"
+
 # JS Tutor - JavaScript para Iniciantes
 
 > **Projeto desenvolvido para o desafio da DIO**
@@ -8,7 +9,7 @@ assets/banner.png
 > **Objetivo:** Construção de um tutor virtual utilizando Engenharia de Prompts.
 
 > **Preview:**
-assets/preview.png
+img src = "assets/preview.png"
 
 ---
 
