@@ -413,6 +413,6 @@ Este projeto demonstra como a Engenharia de Prompts pode transformar uma ferrame
 
 Além de consolidar conhecimentos em JavaScript, o projeto reforçou a importância da curadoria de fontes, da organização do conhecimento e da elaboração de instruções claras para obtenção de melhores resultados com modelos de IA.
 
-ps.: Se tiver interesse pode copiar e testar o JS Tutor através do link abaixo:
+ps.: se tiver interesse pode copiar e testar o JS Tutor através do seguinte link: 
 https://notebooklm.google.com/notebook/d25422a6-de27-4ec6-9977-a570ba85e730
 
