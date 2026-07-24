@@ -1,4 +1,4 @@
-img src = "assets/banner.png"
+![Banner JS Tutor](./assets/banner.png)
 
 # JS Tutor - JavaScript para Iniciantes
 
@@ -9,7 +9,7 @@ img src = "assets/banner.png"
 > **Objetivo:** Construção de um tutor virtual utilizando Engenharia de Prompts.
 
 > **Preview:**
-img src = "assets/preview.png"
+![Preview JS Tutor](./assets/preview.png)
 
 ---
 
