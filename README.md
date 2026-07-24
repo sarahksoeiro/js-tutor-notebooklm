@@ -166,10 +166,8 @@ Olá, futuro desenvolvedor!
 
 Este material foi preparado para ser o seu mapa na jornada de aprendizado do JavaScript. Diferente de outras linguagens, o JavaScript é responsável por dar vida às páginas da web, permitindo que elas deixem de ser apenas conteúdos estáticos e se tornem experiências interativas.
 
-text```Este guia foi elaborado para servir como um material de apoio aos estudos de JavaScript, reunindo os principais conceitos fundamentais em uma sequência lógica e progressiva.
+>Este guia foi elaborado para servir como um material de apoio aos estudos de JavaScript, reunindo os principais conceitos fundamentais em uma sequência lógica e progressiva. O objetivo não é substituir a prática, mas fornecer uma base sólida para consultas rápidas, revisões e esclarecimento de dúvidas durante o aprendizado. À medida que você dominar esses conteúdos, estará preparado para explorar temas mais avançados, como Arrays, Objetos, Programação Assíncrona, Consumo de APIs, ES6+, Orientação a Objetos e frameworks modernos.
 
-O objetivo não é substituir a prática, mas fornecer uma base sólida para consultas rápidas, revisões e esclarecimento de dúvidas durante o aprendizado. À medida que você dominar esses conteúdos, estará preparado para explorar temas mais avançados, como Arrays, Objetos, Programação Assíncrona, Consumo de APIs, ES6+, Orientação a Objetos e frameworks modernos.
-```
 ---
 
 # Fluxo de Aprendizagem
